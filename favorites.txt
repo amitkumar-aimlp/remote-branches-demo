@@ -2,3 +2,4 @@ Foods:
 Paneer
 Soya Chunks
 Orange
+New food
